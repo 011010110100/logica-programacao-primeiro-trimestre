@@ -35,7 +35,6 @@ elif comp == "Pa":
 else:
     print("Pedra quebra tesoura! você perdeu :(")
 
-
 # Exemlpo 11 
 
 """ 
@@ -46,7 +45,6 @@ a parece das artérias quando o coração se contrai)
 pressão diastólica: indica quanta pressão o sangue está exercendo
 sobre a parede das artérias quando o coração está em repouso entre um
 batimento e o seguinte
-
 
 Categoria            Sistólica(mm Hg)      Diastólica(mm Hg)
 Normal                   menos 120           menos de 80
